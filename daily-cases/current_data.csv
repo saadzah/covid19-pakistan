@@ -1,7 +1,7 @@
 name,long,lat,confirmed,deaths,recovered,active
 Islamabad,73.0479,33.6844,2,0,0,2
 Gilgit Baltistan,74.9832,35.8026,5,0,0,5
-Sindh,68.5247,25.8943,76,0,3,73
+Sindh,68.5247,25.8943,88,0,3,85
 Balochistan,65.0958,28.4907,10,0,0,10
 Punjab,72.7097,31.1704,1,0,0,1
 Khyber Pakhtunkhwa,72.331,34.9526,0,0,0,0
